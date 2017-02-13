@@ -1,1 +1,3 @@
-If you ever need help, remember that you can visit the AllNetwork Website for a wide range of help resources and guides as well as the latest version of mIRC.
+If you feel you need help, remember that you can visit Server AllNetwork "The Biggest IRC Network" to review different Resources Help And GUIDE As well as the latest version From Eggdrop Tcl.
+
+Visit the website: www.allnetwork.org/server-allnetwork
